@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "name": "beijing_districts",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东城区",
+        "area": 41.84,
+        "population": 708829,
+        "gdp": 3193.4,
+        "density": 16941,
+        "center_lat": 39.9299,
+        "center_lng": 116.4133
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.3700, 39.9600],
+          [116.4300, 39.9600],
+          [116.4300, 39.9000],
+          [116.3700, 39.9000],
+          [116.3700, 39.9600]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西城区",
+        "area": 50.70,
+        "population": 1106785,
+        "gdp": 5007.3,
+        "density": 21830,
+        "center_lat": 39.9122,
+        "center_lng": 116.3594
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.2900, 39.9600],
+          [116.3700, 39.9600],
+          [116.3700, 39.8900],
+          [116.2900, 39.8900],
+          [116.2900, 39.9600]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "朝阳区",
+        "area": 470.80,
+        "population": 3452460,
+        "gdp": 7617.8,
+        "density": 7333,
+        "center_lat": 39.9834,
+        "center_lng": 116.4722
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.4300, 40.1200],
+          [116.6500, 40.1200],
+          [116.6500, 39.8500],
+          [116.4300, 39.8500],
+          [116.4300, 40.1200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "海淀区",
+        "area": 430.80,
+        "population": 3133469,
+        "gdp": 9501.2,
+        "density": 7274,
+        "center_lat": 39.9965,
+        "center_lng": 116.2993
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.1500, 40.1000],
+          [116.3700, 40.1000],
+          [116.3700, 39.9000],
+          [116.1500, 39.9000],
+          [116.1500, 40.1000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丰台区",
+        "area": 306.00,
+        "population": 2019764,
+        "gdp": 2009.5,
+        "density": 6600,
+        "center_lat": 39.8588,
+        "center_lng": 116.2869
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.1700, 39.9200],
+          [116.3700, 39.9200],
+          [116.3700, 39.7600],
+          [116.1700, 39.7600],
+          [116.1700, 39.9200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "石景山区",
+        "area": 85.74,
+        "population": 567851,
+        "gdp": 810.6,
+        "density": 6623,
+        "center_lat": 39.9193,
+        "center_lng": 116.1789
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.1000, 39.9800],
+          [116.1800, 39.9800],
+          [116.1800, 39.8500],
+          [116.1000, 39.8500],
+          [116.1000, 39.9800]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "通州区",
+        "area": 906.00,
+        "population": 1840295,
+        "gdp": 1592.7,
+        "density": 2031,
+        "center_lat": 39.9066,
+        "center_lng": 116.6504
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.5000, 40.1500],
+          [116.8000, 40.1500],
+          [116.8000, 39.7000],
+          [116.5000, 39.7000],
+          [116.5000, 40.1500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "顺义区",
+        "area": 1021.00,
+        "population": 1324044,
+        "gdp": 2073.2,
+        "density": 1297,
+        "center_lat": 40.1363,
+        "center_lng": 116.6276
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.4500, 40.3500],
+          [116.7500, 40.3500],
+          [116.7500, 40.0000],
+          [116.4500, 40.0000],
+          [116.4500, 40.3500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "昌平区",
+        "area": 1344.00,
+        "population": 2269487,
+        "gdp": 1330.8,
+        "density": 1689,
+        "center_lat": 40.2282,
+        "center_lng": 116.2397
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.9500, 40.4500],
+          [116.4500, 40.4500],
+          [116.4500, 40.0500],
+          [115.9500, 40.0500],
+          [115.9500, 40.4500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大兴区",
+        "area": 1036.00,
+        "population": 1993591,
+        "gdp": 1493.8,
+        "density": 1924,
+        "center_lat": 39.7368,
+        "center_lng": 116.3472
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.1500, 39.9000],
+          [116.5500, 39.9000],
+          [116.5500, 39.5000],
+          [116.1500, 39.5000],
+          [116.1500, 39.9000]
+        ]]
+      }
+    }
+  ]
+}
