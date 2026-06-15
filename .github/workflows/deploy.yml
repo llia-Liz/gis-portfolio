@@ -34,7 +34,7 @@ jobs:
         run: npm install --legacy-peer-deps --ignore-optional
         
       - name: Build
-        run: npm run build
+        run: npx vite build
         env:
           VITE_APP_TITLE: 'GIS Portfolio'
           
