@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name":"黑龙江","code":"230000","area":473000,"population":31850088,"gdp":14879.2,"density":67},
+      "geometry":{"type":"Polygon","coordinates":[[[121.1,53.5],[127.5,53.0],[134.5,51.5],[134.0,47.5],[129.5,44.0],[123.5,44.5],[121.0,46.0],[121.0,53.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"吉林","code":"220000","area":187400,"population":24073400,"gdp":13239.8,"density":128},
+      "geometry":{"type":"Polygon","coordinates":[[[121.8,46.5],[127.5,45.5],[131.0,43.0],[129.0,41.0],[124.5,41.5],[122.0,42.5],[121.8,44.0],[121.8,46.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"辽宁","code":"210000","area":148000,"population":42294100,"gdp":27584.1,"density":286},
+      "geometry":{"type":"Polygon","coordinates":[[[118.5,43.5],[122.0,43.0],[125.5,40.5],[125.0,39.0],[122.0,38.5],[119.0,39.0],[118.5,40.5],[118.5,43.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"内蒙古","code":"150000","area":1183000,"population":24000000,"gdp":20514.2,"density":20},
+      "geometry":{"type":"Polygon","coordinates":[[[97.0,53.0],[119.0,51.0],[123.0,45.0],[119.0,40.0],[110.0,38.5],[100.0,40.0],[97.0,45.0],[97.0,53.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"北京","code":"110000","area":16410,"population":21886000,"gdp":41610.9,"density":1334},
+      "geometry":{"type":"Polygon","coordinates":[[[115.9,39.6],[116.1,39.9],[116.5,40.2],[117.0,39.9],[116.8,39.5],[116.3,39.5],[115.9,39.6]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"天津","code":"120000","area":11966,"population":13730000,"gdp":15695.05,"density":1147},
+      "geometry":{"type":"Polygon","coordinates":[[[117.0,38.6],[117.5,39.0],[118.0,39.2],[117.8,39.5],[117.3,39.3],[117.0,38.6]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"河北","code":"130000","area":188800,"population":74480000,"gdp":40391.3,"density":394},
+      "geometry":{"type":"Polygon","coordinates":[[[113.5,36.0],[115.5,38.5],[118.0,38.5],[119.0,36.5],[118.0,34.5],[115.0,34.0],[113.5,35.5],[113.5,36.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"山西","code":"140000","area":156700,"population":34813800,"gdp":25642.6,"density":222},
+      "geometry":{"type":"Polygon","coordinates":[[[110.5,35.0],[112.5,37.5],[114.0,39.5],[113.0,36.5],[111.5,35.5],[110.5,35.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"陕西","code":"610000","area":205600,"population":39562000,"gdp":33276.8,"density":192},
+      "geometry":{"type":"Polygon","coordinates":[[[105.0,35.0],[108.0,38.0],[111.0,36.5],[110.0,33.5],[107.0,32.0],[105.0,33.0],[105.0,35.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"甘肃","code":"620000","area":454000,"population":24900000,"gdp":11201.6,"density":55},
+      "geometry":{"type":"Polygon","coordinates":[[[92.0,37.0],[104.0,40.0],[106.5,35.0],[102.0,32.0],[96.0,33.0],[92.0,35.0],[92.0,37.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"青海","code":"630000","area":722300,"population":5940000,"gdp":3346.6,"density":8},
+      "geometry":{"type":"Polygon","coordinates":[[[89.0,36.0],[97.0,38.0],[99.0,34.0],[93.0,33.0],[89.0,35.0],[89.0,36.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"宁夏","code":"640000","area":66400,"population":7250000,"gdp":5312.0,"density":109},
+      "geometry":{"type":"Polygon","coordinates":[[[104.8,37.0],[107.0,37.5],[106.8,35.8],[105.0,35.5],[104.8,37.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"新疆","code":"650000","area":1664900,"population":25852300,"gdp":17741.3,"density":16},
+      "geometry":{"type":"Polygon","coordinates":[[[73.0,50.0],[95.0,49.0],[105.0,44.0],[106.0,37.0],[93.0,36.0],[75.0,40.0],[73.0,47.0],[73.0,50.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"西藏","code":"540000","area":1228000,"population":3648100,"gdp":2132.6,"density":3},
+      "geometry":{"type":"Polygon","coordinates":[[[78.0,36.0],[95.0,35.0],[98.0,29.0],[90.0,27.0],[80.0,29.0],[78.0,33.0],[78.0,36.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"四川","code":"510000","area":486000,"population":83720000,"gdp":56749.8,"density":172},
+      "geometry":{"type":"Polygon","coordinates":[[[97.0,34.0],[104.0,33.0],[105.5,28.0],[102.0,27.0],[98.0,29.0],[97.0,32.0],[97.0,34.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"重庆","code":"500000","area":82400,"population":32124300,"gdp":30704.0,"density":390},
+      "geometry":{"type":"Polygon","coordinates":[[[105.0,31.0],[107.5,30.5],[108.0,29.0],[106.5,28.5],[105.5,29.5],[105.0,30.5],[105.0,31.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"贵州","code":"520000","area":176100,"population":38562148,"gdp":20164.6,"density":219},
+      "geometry":{"type":"Polygon","coordinates":[[[103.5,29.5],[106.0,28.5],[107.5,26.0],[105.5,25.0],[104.0,26.0],[103.5,28.0],[103.5,29.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"云南","code":"530000","area":394100,"population":47216000,"gdp":28954.2,"density":120},
+      "geometry":{"type":"Polygon","coordinates":[[[97.5,28.0],[102.5,27.5],[104.5,24.0],[101.0,22.0],[98.0,23.0],[97.5,26.0],[97.5,28.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"河南","code":"410000","area":167000,"population":98830000,"gdp":61345.0,"density":592},
+      "geometry":{"type":"Polygon","coordinates":[[[110.5,36.0],[114.5,35.5],[115.5,33.0],[113.5,31.5],[111.0,32.5],[110.5,34.5],[110.5,36.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"湖北","code":"420000","area":185900,"population":58300000,"gdp":53734.9,"density":314},
+      "geometry":{"type":"Polygon","coordinates":[[[108.5,33.0],[112.5,32.5],[114.5,30.0],[112.0,29.0],[110.0,30.0],[109.0,31.5],[108.5,33.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"湖南","code":"430000","area":211800,"population":66220000,"gdp":48670.4,"density":313},
+      "geometry":{"type":"Polygon","coordinates":[[[108.5,30.0],[112.5,29.5],[113.5,26.5],[111.0,25.0],[109.5,26.5],[108.5,28.5],[108.5,30.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"广东","code":"440000","area":179700,"population":126840000,"gdp":129118.6,"density":706},
+      "geometry":{"type":"Polygon","coordinates":[[[109.5,25.5],[115.0,24.5],[116.5,21.0],[114.0,21.5],[111.5,23.5],[109.5,25.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"广西","code":"450000","area":236700,"population":50130000,"gdp":26300.9,"density":212},
+      "geometry":{"type":"Polygon","coordinates":[[[104.0,26.0],[110.5,24.5],[111.0,21.5],[108.0,21.0],[105.0,23.0],[104.0,25.0],[104.0,26.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"海南","code":"460000","area":35400,"population":10200000,"gdp":6818.2,"density":288},
+      "geometry":{"type":"Polygon","coordinates":[[[108.0,20.5],[111.0,19.5],[111.5,18.5],[109.5,18.0],[108.0,19.5],[108.0,20.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"山东","code":"370000","area":157100,"population":101699945,"gdp":96542.3,"density":647},
+      "geometry":{"type":"Polygon","coordinates":[[[114.5,38.5],[119.0,38.0],[122.0,35.0],[119.0,34.0],[116.5,35.5],[115.0,37.5],[114.5,38.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"江苏","code":"320000","area":107200,"population":85054000,"gdp":122875.6,"density":793},
+      "geometry":{"type":"Polygon","coordinates":[[[116.5,34.5],[120.5,33.5],[121.5,31.0],[119.0,30.5],[117.0,31.5],[116.5,33.5],[116.5,34.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"安徽","code":"340000","area":140100,"population":61130000,"gdp":45045.0,"density":436},
+      "geometry":{"type":"Polygon","coordinates":[[[114.5,34.0],[117.5,33.0],[118.5,31.0],[116.0,30.0],[115.0,31.5],[114.5,33.0],[114.5,34.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"浙江","code":"330000","area":105500,"population":65400000,"gdp":87751.7,"density":620},
+      "geometry":{"type":"Polygon","coordinates":[[[118.0,31.5],[121.0,30.0],[122.5,27.5],[120.0,27.0],[118.5,29.0],[118.0,31.0],[118.0,31.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"福建","code":"350000","area":121400,"population":41540086,"gdp":53109.8,"density":342},
+      "geometry":{"type":"Polygon","coordinates":[[[115.0,28.5],[118.0,27.5],[119.5,24.0],[117.5,23.5],[116.0,25.5],[115.0,27.5],[115.0,28.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"江西","code":"360000","area":166900,"population":45180000,"gdp":32074.7,"density":271},
+      "geometry":{"type":"Polygon","coordinates":[[[113.5,30.0],[116.5,29.0],[117.5,27.0],[115.5,25.5],[114.0,26.5],[113.5,28.5],[113.5,30.0]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"上海","code":"310000","area":6340,"population":24870895,"gdp":47218.7,"density":3922},
+      "geometry":{"type":"Polygon","coordinates":[[[120.8,31.8],[121.5,31.5],[121.8,31.0],[121.2,30.7],[120.8,31.2],[120.8,31.8]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"香港","code":"810000","area":1106,"population":7413070,"gdp":3681.4,"density":6699},
+      "geometry":{"type":"Polygon","coordinates":[[[113.9,22.5],[114.2,22.4],[114.3,22.2],[114.0,22.1],[113.9,22.3],[113.9,22.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"澳门","code":"820000","area":32.9,"population":683218,"gdp":1927.0,"density":20766},
+      "geometry":{"type":"Polygon","coordinates":[[[113.5,22.22],[113.57,22.21],[113.58,22.18],[113.52,22.17],[113.5,22.20]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"台湾","code":"710000","area":36000,"population":23561236,"gdp":6114.5,"density":654},
+      "geometry":{"type":"Polygon","coordinates":[[[120.0,25.5],[122.0,24.5],[122.5,22.0],[120.5,21.5],[119.5,23.0],[120.0,25.5]]]}
+    }
+  ]
+}
