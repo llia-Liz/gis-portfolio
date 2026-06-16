@@ -108,8 +108,6 @@
         <div class="section-title">配色方案说明</div>
         <div class="explanation-text">
           <p><strong>顺序色带（Sequential）：</strong>适用于表示数值从低到高的渐进变化，如人口、GDP等。颜色从浅色渐变到深色，便于识别数值大小。</p>
-          <p><strong>发散色带（Diverging）：</strong>适用于表示偏离某个中心值的数据，颜色从两端向中间过渡，突出极端值。</p>
-          <p><strong>定性色带（Qualitative）：</strong>适用于分类数据，使用不同颜色区分不同类别，无数值含义。</p>
         </div>
       </div>
     </div>
@@ -148,32 +146,13 @@ const proportionalField = ref('population')
 // 配色方案（增加颜色数量使分级更明显）
 const colorSchemes = [
   { 
-    name: '浅蓝-深蓝', 
+    key: 'blue',
+    label: '蓝色', 
+    name: 'blue', 
     type: 'sequential',
     colors: ['#f7fbff', '#deebf7', '#c6dbef', '#9ecae1', '#6baed6', '#4292c6', '#2171b5', '#08519c'],
     gradient: 'linear-gradient(to right, #f7fbff, #08519c)',
-    desc: '顺序色带 - 适合数值递增数据'
-  },
-  { 
-    name: '浅红-深红', 
-    type: 'sequential',
-    colors: ['#fff5f0', '#fee0d2', '#fcbba1', '#fc9272', '#fb6a4a', '#ef3b2c', '#cb181d', '#99000d'],
-    gradient: 'linear-gradient(to right, #fff5f0, #99000d)',
-    desc: '顺序色带 - 适合突出高值'
-  },
-  { 
-    name: '发散色', 
-    type: 'diverging',
-    colors: ['#67001f', '#b2182b', '#d6604d', '#f4a582', '#fddbc7', '#f7f7f7', '#e0e0e0', '#bababa', '#878787', '#4d4d4d', '#1a1a1a'],
-    gradient: 'linear-gradient(to right, #67001f, #f7f7f7, #1a1a1a)',
-    desc: '发散色带 - 适合偏离中心值的数据'
-  },
-  { 
-    name: '彩虹色', 
-    type: 'qualitative',
-    colors: ['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00', '#ffff33', '#a65628', '#f781bf'],
-    gradient: 'linear-gradient(to right, #e41a1c, #377eb8, #4daf4a, #984ea3, #ff7f00, #ffff33, #a65628, #f781bf)',
-    desc: '定性色带 - 适合分类数据'
+    desc: '顺序色带'
   }
 ]
 
